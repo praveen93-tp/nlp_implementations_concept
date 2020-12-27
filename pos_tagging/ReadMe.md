@@ -1,4 +1,3 @@
-Read Me:
 Move to the location code/  and locate pos_tagging.py file
 
 To execute the model :
